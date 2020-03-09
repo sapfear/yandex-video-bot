@@ -17,21 +17,12 @@ npm-debug.log
 *.log
 logs/
 build/
-build-server/
-packages/**/lib/
 version.txt
 geodata.bin.tmp
 sd_cache/
-.lighthouseci/
-.tvm.json
 
 ##### ENVIRONMENT
 .env
 
 ##### TESTS
 .nyc_output/
-__reports/
-calc_metrics_daemon.*
-
-##### I18N
-services/**/.tanker/*.json
